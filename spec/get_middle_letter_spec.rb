@@ -8,4 +8,8 @@ describe ('#get_middle') do
     it 'returns a word with two letters' do 
         expect(get_middle('Of')).to eq('Of')
     end 
+
+    it 'returns the middle letter of an odd word' do 
+        expect(get_middle('Dog')).to eq('o')
+    end 
 end   
