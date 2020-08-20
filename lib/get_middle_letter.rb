@@ -1,3 +1,3 @@
-def get_middle(string)
-    'A'
+def get_middle(word)
+    return word
 end 
