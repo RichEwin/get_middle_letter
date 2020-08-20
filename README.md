@@ -9,7 +9,7 @@ I would like an application that returns the middle letter of a word. If the wor
 |---        |---         |
 | 'A' | 'A' |
 | 'Of' | 'Of' |
-| 'Dog' | 'O' |
+| 'Dog' | 'o' |
 | 'Test' | 'es' |
 | 'Testing' | 't' |
 
